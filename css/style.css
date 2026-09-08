@@ -9,4 +9,39 @@
 a {
   color: #ffffff;
   text-decoration: none;
+  text-align: center;
+}
+
+.button {
+  background-color: #a06600;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+  
+}
+
+.button:hover {
+
+  transition: background-color 0.3s ease;
+  background-color: #ff8c00;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333333;
+  text-align: center;
+}
+
+h1
+{
+  font-size: 24px;
+  color: #a06600;
+  margin-bottom: 10px;
+  text-align: center;
 }
