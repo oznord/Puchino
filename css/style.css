@@ -12,6 +12,12 @@ a {
   text-align: center;
 }
 
+.boissons {
+
+  padding: 20px;
+  text-align: center;
+}
+
 .button {
   background-color: #a06600;
   color: #ffffff;
