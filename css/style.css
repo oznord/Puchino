@@ -1,0 +1,12 @@
+.header {
+  background-color: #a06600;
+  padding: 10px;
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
